@@ -82,6 +82,12 @@
         <mxCell id="Zue0cw8jh71YgsHalFJU-29" value="page connexion&amp;nbsp;&lt;div&gt;entrer identifiants&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="640" y="240" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="Zue0cw8jh71YgsHalFJU-32" value="Cas d&#39;utilisation Page connexion" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="80" width="330" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Zue0cw8jh71YgsHalFJU-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Zue0cw8jh71YgsHalFJU-32" target="Zue0cw8jh71YgsHalFJU-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

@@ -1,9 +1,66 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="27.0.2">
   <diagram name="Page-1" id="rsZ0MbNBRw0VVStxnVJ5">
-    <mxGraphModel>
+    <mxGraphModel dx="1378" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="2f0jogsE1S9Fqh23R1EA-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="2f0jogsE1S9Fqh23R1EA-1" target="2f0jogsE1S9Fqh23R1EA-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2f0jogsE1S9Fqh23R1EA-1" value="Eleve" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="90" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2f0jogsE1S9Fqh23R1EA-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="2f0jogsE1S9Fqh23R1EA-2" target="2f0jogsE1S9Fqh23R1EA-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2f0jogsE1S9Fqh23R1EA-2" value="Mentor/Bénévole" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="600" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2f0jogsE1S9Fqh23R1EA-3" value="Diagramme de cas d’usage – Tableau de bord" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="20" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2f0jogsE1S9Fqh23R1EA-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2f0jogsE1S9Fqh23R1EA-4" target="2f0jogsE1S9Fqh23R1EA-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2f0jogsE1S9Fqh23R1EA-4" value="Visualisation&lt;div&gt;des messages&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="90" y="240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2f0jogsE1S9Fqh23R1EA-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="2f0jogsE1S9Fqh23R1EA-5" target="2f0jogsE1S9Fqh23R1EA-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2f0jogsE1S9Fqh23R1EA-5" value="Visualisation compteur messages" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="90" y="360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2f0jogsE1S9Fqh23R1EA-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="2f0jogsE1S9Fqh23R1EA-6" target="2f0jogsE1S9Fqh23R1EA-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2f0jogsE1S9Fqh23R1EA-6" value="Visualisation calendrier" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="90" y="480" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2f0jogsE1S9Fqh23R1EA-7" value="visualisation des&amp;nbsp;&lt;div&gt;tâches&lt;/div&gt;&lt;div&gt;(to-do-list)&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="90" y="600" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2f0jogsE1S9Fqh23R1EA-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="2f0jogsE1S9Fqh23R1EA-8" target="2f0jogsE1S9Fqh23R1EA-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2f0jogsE1S9Fqh23R1EA-8" value="Visualisation&lt;div&gt;des messages&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="600" y="240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2f0jogsE1S9Fqh23R1EA-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="2f0jogsE1S9Fqh23R1EA-9" target="2f0jogsE1S9Fqh23R1EA-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2f0jogsE1S9Fqh23R1EA-9" value="Visualisation compteur messages" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="600" y="360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2f0jogsE1S9Fqh23R1EA-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="2f0jogsE1S9Fqh23R1EA-10" target="2f0jogsE1S9Fqh23R1EA-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2f0jogsE1S9Fqh23R1EA-10" value="Visualisation calendrier" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="600" y="480" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2f0jogsE1S9Fqh23R1EA-11" value="visualisation des&amp;nbsp;&lt;div&gt;tâches&lt;/div&gt;&lt;div&gt;(to-do-list)&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="600" y="600" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

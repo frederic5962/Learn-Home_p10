@@ -37,6 +37,9 @@
         <mxCell id="D2SJP2fWWxtvxuzkvLlc-6" value="Modifier un évènement&amp;nbsp;&lt;div&gt;ou rdv&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="80" y="400" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="D2SJP2fWWxtvxuzkvLlc-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D2SJP2fWWxtvxuzkvLlc-7" target="D2SJP2fWWxtvxuzkvLlc-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="D2SJP2fWWxtvxuzkvLlc-7" value="Supprimer un&lt;div&gt;évènement&amp;nbsp;&lt;/div&gt;&lt;div&gt;ou rdv&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="80" y="520" width="120" height="80" as="geometry" />
         </mxCell>
@@ -46,8 +49,17 @@
         <mxCell id="D2SJP2fWWxtvxuzkvLlc-8" value="Modifier un&amp;nbsp;&lt;div&gt;évènement&amp;nbsp;&lt;/div&gt;&lt;div&gt;ou rdv&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="590" y="400" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="D2SJP2fWWxtvxuzkvLlc-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D2SJP2fWWxtvxuzkvLlc-9" target="D2SJP2fWWxtvxuzkvLlc-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="D2SJP2fWWxtvxuzkvLlc-9" value="Supprimer un&lt;div&gt;évènement&amp;nbsp;&lt;/div&gt;&lt;div&gt;ou rdv&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="590" y="520" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D2SJP2fWWxtvxuzkvLlc-16" value="Consulter le calendrier" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="80" y="640" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D2SJP2fWWxtvxuzkvLlc-17" value="Consulter le calendrier" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="590" y="640" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

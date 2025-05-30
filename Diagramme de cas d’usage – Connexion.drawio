@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="27.0.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="27.1.1">
   <diagram name="Page-1" id="KmbGgYlYGXzT0_UpFZPA">
     <mxGraphModel dx="1378" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
       <root>
@@ -96,22 +96,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ng6ufq9dJBZELyTH2kSp-26" value="Mot de passe&amp;nbsp;&lt;div&gt;oublier&amp;nbsp;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="60" y="1070" width="120" height="80" as="geometry" />
+          <mxGeometry x="60" y="1160" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ng6ufq9dJBZELyTH2kSp-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="1" source="Ng6ufq9dJBZELyTH2kSp-27" target="Ng6ufq9dJBZELyTH2kSp-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ng6ufq9dJBZELyTH2kSp-27" value="envoi vers reinitialisation&amp;nbsp;&lt;div&gt;mot de passe&amp;nbsp;&amp;nbsp;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="292" y="1070" width="120" height="80" as="geometry" />
+          <mxGeometry x="290" y="1160" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ng6ufq9dJBZELyTH2kSp-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="1" source="Ng6ufq9dJBZELyTH2kSp-28" target="Ng6ufq9dJBZELyTH2kSp-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ng6ufq9dJBZELyTH2kSp-28" value="reception du mail&lt;div&gt;de reinitialisation&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="490" y="1070" width="120" height="80" as="geometry" />
+          <mxGeometry x="490" y="1160" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ng6ufq9dJBZELyTH2kSp-29" value="Changement de&amp;nbsp;&lt;div&gt;Mot de passe&amp;nbsp;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="703" y="1070" width="120" height="80" as="geometry" />
+          <mxGeometry x="700" y="1160" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ng6ufq9dJBZELyTH2kSp-40" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;exitX=0.933;exitY=0.188;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="QbgpvLvngL5jS_qIekFw-13" target="Zue0cw8jh71YgsHalFJU-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -171,6 +171,36 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="520" y="360" as="sourcePoint" />
             <mxPoint x="570" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OBNKL77yJkihkaTxdUHG-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="OBNKL77yJkihkaTxdUHG-1" target="OBNKL77yJkihkaTxdUHG-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OBNKL77yJkihkaTxdUHG-1" value="S&#39;inscrire" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="190" y="450" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OBNKL77yJkihkaTxdUHG-2" value="Accès au formulaire d&#39;inscription" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="414" y="450" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OBNKL77yJkihkaTxdUHG-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="Ng6ufq9dJBZELyTH2kSp-11" target="OBNKL77yJkihkaTxdUHG-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="450" as="sourcePoint" />
+            <mxPoint x="730" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OBNKL77yJkihkaTxdUHG-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="OBNKL77yJkihkaTxdUHG-5" target="OBNKL77yJkihkaTxdUHG-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OBNKL77yJkihkaTxdUHG-5" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;S&#39;inscrire&lt;/span&gt;&#xa;&#xa;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1040" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OBNKL77yJkihkaTxdUHG-6" value="Accès au formulaire d&#39;inscription" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1040" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OBNKL77yJkihkaTxdUHG-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.567;exitY=0.963;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="Ng6ufq9dJBZELyTH2kSp-12" target="OBNKL77yJkihkaTxdUHG-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="1050" as="sourcePoint" />
+            <mxPoint x="730" y="1000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
